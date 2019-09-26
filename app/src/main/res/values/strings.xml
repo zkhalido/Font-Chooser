@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FontChooser</string>
+    <string name="text_string">This is the default text. You can change the typeface, style, size, and color by selecting the appropriate options bellow.</string>
+</resources>
